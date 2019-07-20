@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 final DemoPlayList demoPlayList = DemoPlayList(
   songs: [
     new DemoSong(
-      audioUrl: 'https://webfs.yun.kugou.com/201906021551/138742e4dff13c59a3a3f6d2609861f1/G119/M01/05/0D/F4cBAFxlweSAT9BlAEHWDL3dgeI800.mp3',
+      audioUrl: 'https://webfs.yun.kugou.com/201907201840/2ecfd1e67fabe879ac4e1f518248ec6a/G119/M01/05/0D/F4cBAFxlweSAT9BlAEHWDL3dgeI800.mp3',
       albumArtUrl: 'https://p3fx.kgimg.com/stdmusic/20190216/20190216172238787963.jpg',
       songTitle: '绿色',
       artist: '陈雪凝',
